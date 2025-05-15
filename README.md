@@ -1,2 +1,2 @@
 # How-to-Getting-Started-Blazor-DataGrid-Samples
-Explore Syncfusion Blazor DataGrid project setup in this sample repository. Learn how to build client-side and server-side Blazor apps using CLI or Visual Studio, enabling efficient data display, interaction, and integration workflows.
+Explore Syncfusion Blazor DataGrid project setup in this sample repository. Learn how to build client-side and server-side Blazor apps using CLI or Visual Studio, enabling efficient data display, interaction, and integration workflows. This repository also includes a sample demonstrating CSS Isolation for the DataGrid, showcasing how to apply component-scoped styles using `.razor.css` files.
