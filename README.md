@@ -1,10 +1,10 @@
-# Syncfusion Blazor DataGrid Samples
+# Blazor DataGrid Samples
 
 Build powerful data grid applications with [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). This repository contains comprehensive examples of client-side, server-side, and component-isolated Blazor applications demonstrating modern data display, user interaction patterns, and styling best practices.
 
 ## Overview
 
-This sample repository showcases three distinct approaches to building Blazor applications with Syncfusion DataGrid:
+This sample repository showcases three distinct approaches to building Blazor applications with DataGrid:
 
 - **BlazorApp**: A Blazor WebAssembly application for client-side rendering
 - **BlazorServerApp**: A Blazor Server application for server-side rendering with real-time interactivity
@@ -15,11 +15,10 @@ Each sample includes order data display, weather forecasts, and component naviga
 ## Features
 
 - **Multiple Blazor Hosting Models**: Examples of WebAssembly, Server-side, and modern Blazor Web App architectures
-- **Syncfusion DataGrid Integration**: Full-featured data grids with sorting, filtering, and pagination
+- **DataGrid Integration**: Full-featured data grids with sorting, filtering, and pagination
 - **CSS Component Isolation**: Learn how to scope styles to individual components using `.razor.css` files
 - **Responsive Design**: Bootstrap-based layouts for mobile and desktop experiences
 - **Sample Data Integration**: Pre-configured weather forecasts and order management examples
-- **.NET 9.0 Support**: Built with the latest .NET framework and modern C# features
 
 ## Prerequisites
 
