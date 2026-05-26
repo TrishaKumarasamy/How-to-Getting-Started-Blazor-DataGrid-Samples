@@ -51,9 +51,9 @@ dotnet restore
 # Run the project
 dotnet run
 ```
-## Resources
+## References
 
 - [Blazor DataGrid Documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app)
-- [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core)
-- [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
+- [Online DataGrid Demo](https://blazor.syncfusion.com/demos/datagrid/overview?theme=fluent2)
+
 
